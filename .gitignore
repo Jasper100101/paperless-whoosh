@@ -1,0 +1,12 @@
+# 忽略數據庫文件
+db.sqlite3
+
+# 忽略 Python 編譯緩存
+__pycache__/
+*.pyc
+
+# 忽略遷移緩存
+*/migrations/__pycache__/
+
+# 忽略環境文件
+.env
